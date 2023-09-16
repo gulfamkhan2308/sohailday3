@@ -1,1 +1,9 @@
-this is my first time to create file..
+this is my first time to create file.
+git clone <your repo url>
+cd <repo folder>
+
+create a new file
+
+git add .
+git commit -m "your message"
+git push
