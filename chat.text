@@ -2,8 +2,15 @@ this is my first time to create file.
 git clone <your repo url>
 cd <repo folder>
 
+i am sohail sun of gulfam i am make changes in my father account
+
 create a new file
 
 git add .
 git commit -m "your message"
 git push
+create second file steps of code
+1 step:you will write git add.
+2 step:then git commit -m "my second file"
+3 step:then git push
+inup
